@@ -1,3 +1,7 @@
+# Screenshots
+![temp4](https://github.com/alxstrks/ReactPortfolio4/assets/164067360/66693d48-65eb-479a-876d-d477147f2cc4)
+![temp5](https://github.com/alxstrks/ReactPortfolio4/assets/164067360/7ccd63ee-6d17-4b75-8add-9f52aca0bee8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
